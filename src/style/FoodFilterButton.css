@@ -1,0 +1,12 @@
+
+ @media (min-width: 320px) and (max-width: 576px) {
+    .filter-button{
+        padding: 3px !important;
+    }
+ }
+ @media (max-width: 320px){
+    .filter-button{
+        padding: 2px !important;
+    }
+}
+ 

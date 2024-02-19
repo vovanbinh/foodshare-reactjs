@@ -1,0 +1,31 @@
+@media (min-width: 1200px) {
+   .text-size{
+    font-size: 1em;
+    margin-left: 5px;
+   }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .text-size{
+        font-size: 0.9em;
+        margin-left: 5px;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+    .text-size{
+        font-size: 0.9em;
+        margin-left: 5px;
+    }
+}
+@media (min-width: 576px) and (max-width: 768px) {
+    .text-size{
+        font-size: 0.9em;
+        margin-left: 5px;
+    }
+}
+@media (min-width: 320px) and (max-width: 576px) {
+    .text-size{
+        font-size: 0.8em;
+        margin-left: 5px;
+    }
+}
